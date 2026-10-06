@@ -1,4 +1,4 @@
-module github.com/sjtug/caddy2-filter
+module github.com/CaptainLexington/caddy2-filter
 
 go 1.20
 
